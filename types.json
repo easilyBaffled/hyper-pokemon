@@ -1,0 +1,1410 @@
+{
+  "grass": {
+	"bulbasaur": {
+	  "primary": "#5B9C71",
+	  "secondary": "#0F2C33",
+	  "tertiary": "#F8DEA0",
+	  "unibody": "#77AC98"
+	},
+	"ivysaur": {
+	  "primary": "#1C6C6A",
+	  "secondary": "#062121",
+	  "tertiary": "#6ECFD1",
+	  "unibody": "#278887"
+	},
+	"venusaur": {
+	  "primary": "#548B52",
+	  "secondary": "#C9F3F1",
+	  "tertiary": "#142625",
+	  "unibody": "#58A7A2"
+	},
+	"bellsprout": {
+	  "primary": "#93CF9C",
+	  "secondary": "#1F1E0C",
+	  "tertiary": "#0078FC",
+	  "unibody": "#DEDA6C"
+	},
+	"weepinbell": {
+	  "primary": "#79B47C",
+	  "secondary": "#786548",
+	  "tertiary": "#0078FC",
+	  "unibody": "#EBEB73"
+	},
+	"victreebel": {
+	  "primary": "#88CA8D",
+	  "secondary": "#DB8570",
+	  "tertiary": "#66916C",
+	  "unibody": "#EAEA6E"
+	},
+	"oddish": {
+	  "primary": "#4D9242",
+	  "secondary": "#19242C",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#587D9A"
+	},
+	"gloom": {
+	  "primary": "#A04041",
+	  "secondary": "#000000",
+	  "tertiary": "#C9C95A",
+	  "unibody": "#7796CD"
+	},
+	"vileplume": {
+	  "primary": "#D56C7D",
+	  "secondary": "#FFFFEB",
+	  "tertiary": "#332424",
+	  "unibody": "#485683"
+	},
+	"paras": {
+	  "primary": "#C68133",
+	  "secondary": "#000000",
+	  "tertiary": "#5E563E",
+	  "unibody": "#D99238"
+	},
+	"parasect": {
+	  "primary": "#C77936",
+	  "secondary": "#000000",
+	  "tertiary": "#5E563E",
+	  "unibody": "#D88738"
+	},
+	"exeggcute": {
+	  "primary": "#D0B5BB",
+	  "secondary": "#4F6666",
+	  "tertiary": "#0CA8A8",
+	  "unibody": "#F6D6D9"
+	},
+	"exeggutor": {
+	  "primary": "#56A160",
+	  "secondary": "#403B33",
+	  "tertiary": "#5BCCA3",
+	  "unibody": "#9D927E"
+	},
+	"tangela": {
+	  "primary": "#DF775E",
+	  "secondary": "#1C384F",
+	  "tertiary": "#FFFCFF",
+	  "unibody": "#6697C0"
+	}
+  },
+  "poison": {
+	"bulbasaur": {
+	  "primary": "#5B9C71",
+	  "secondary": "#0F2C33",
+	  "tertiary": "#F8DEA0",
+	  "unibody": "#77AC98"
+	},
+	"ivysaur": {
+	  "primary": "#1C6C6A",
+	  "secondary": "#062121",
+	  "tertiary": "#6ECFD1",
+	  "unibody": "#278887"
+	},
+	"venusaur": {
+	  "primary": "#548B52",
+	  "secondary": "#C9F3F1",
+	  "tertiary": "#142625",
+	  "unibody": "#58A7A2"
+	},
+	"weedle": {
+	  "primary": "#EDF5EA",
+	  "secondary": "#EDF5EA",
+	  "tertiary": "#A547A5",
+	  "unibody": "#D09D4C"
+	},
+	"kakuna": {
+	  "primary": "#F4E089",
+	  "secondary": "#292722",
+	  "tertiary": "#A547A5",
+	  "unibody": "#D8C173"
+	},
+	"ekans": {
+	  "primary": "#F9E994",
+	  "secondary": "#342136",
+	  "tertiary": "#DAB5DD",
+	  "unibody": "#8D6891"
+	},
+	"gengar": {
+	  "primary": "#EF735B",
+	  "secondary": "#43B28F",
+	  "tertiary": "#BB4477",
+	  "unibody": "#4B294A"
+	},
+	"arbok": {
+	  "primary": "#3A3839",
+	  "secondary": "#F5F5F5",
+	  "tertiary": "#BB4477",
+	  "unibody": "#A7A1BD"
+	},
+	"beedrill": {
+	  "primary": "#656281",
+	  "secondary": "#302910",
+	  "tertiary": "#3680A8",
+	  "unibody": "#EDCE64"
+	},
+	"nidoran-female": {
+	  "primary": "#494989",
+	  "secondary": "#2B1E47",
+	  "tertiary": "#BE00E6",
+	  "unibody": "#BEC7E6"
+	},
+	"nidorina": {
+	  "primary": "#527B99",
+	  "secondary": "#22303D",
+	  "tertiary": "#BE00E6",
+	  "unibody": "#94B9C1"
+	},
+	"nidoqueen": {
+	  "primary": "#597E98",
+	  "secondary": "#111742",
+	  "tertiary": "#AD7561",
+	  "unibody": "#81ABC3"
+	},
+	"nidoran-male": {
+	  "primary": "#1A756C",
+	  "secondary": "#3A243E",
+	  "tertiary": "#89D7BF",
+	  "unibody": "#845F8B"
+	},
+	"nidorino": {
+	  "primary": "#6AA19E",
+	  "secondary": "#3A243E",
+	  "tertiary": "#89D7BF",
+	  "unibody": "#A47DA9"
+	},
+	"nidoking": {
+	  "primary": "#518286",
+	  "secondary": "#3A243E",
+	  "tertiary": "#89D7BF",
+	  "unibody": "#A86EA1"
+	},
+	"zubat": {
+	  "primary": "#874E83",
+	  "secondary": "#F5F56E",
+	  "tertiary": "#5C421B",
+	  "unibody": "#5486A9"
+	},
+	"golbat": {
+	  "primary": "#82487A",
+	  "secondary": "#F5F56E",
+	  "tertiary": "#5C421B",
+	  "unibody": "#306E93"
+	},
+	"tentacool": {
+	  "primary": "#9B233E",
+	  "secondary": "#102029",
+	  "tertiary": "#991E82",
+	  "unibody": "#6EB5DF"
+	},
+	"tentacruel": {
+	  "primary": "#2997BC",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#CF607C",
+	  "unibody": "#000000"
+	},
+	"bellsprout": {
+	  "primary": "#93CF9C",
+	  "secondary": "#1F1E0C",
+	  "tertiary": "#0078FC",
+	  "unibody": "#DEDA6C"
+	},
+	"weepinbell": {
+	  "primary": "#79B47C",
+	  "secondary": "#786548",
+	  "tertiary": "#0078FC",
+	  "unibody": "#EBEB73"
+	},
+	"victreebel": {
+	  "primary": "#88CA8D",
+	  "secondary": "#DB8570",
+	  "tertiary": "#66916C",
+	  "unibody": "#EAEA6E"
+	},
+	"oddish": {
+	  "primary": "#4D9242",
+	  "secondary": "#19242C",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#587D9A"
+	},
+	"gloom": {
+	  "primary": "#A04041",
+	  "secondary": "#000000",
+	  "tertiary": "#C9C95A",
+	  "unibody": "#7796CD"
+	},
+	"vileplume": {
+	  "primary": "#D56C7D",
+	  "secondary": "#FFFFEB",
+	  "tertiary": "#332424",
+	  "unibody": "#485683"
+	},
+	"venonat": {
+	  "primary": "#C5598B",
+	  "secondary": "#1E1B33",
+	  "tertiary": "#51275C",
+	  "unibody": "#615A90"
+	},
+	"venomoth": {
+	  "primary": "#6E6991",
+	  "secondary": "#373737",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#A59CC7"
+	},
+	"grimer": {
+	  "primary": "#6E5F80",
+	  "secondary": "#2F2533",
+	  "tertiary": "#B8A785",
+	  "unibody": "#8D7B95"
+	},
+	"muk": {
+	  "primary": "#775A92",
+	  "secondary": "#23182E",
+	  "tertiary": "#DEC9A0",
+	  "unibody": "#8D6DAC"
+	},
+	"koffing": {
+	  "primary": "#726487",
+	  "secondary": "#472F6B",
+	  "tertiary": "#BA517F",
+	  "unibody": "#A793C6"
+	},
+	"weezing": {
+	  "primary": "#897B88",
+	  "secondary": "#3B3345",
+	  "tertiary": "#FFF9B4",
+	  "unibody": "#B1A4C2"
+	}
+  },
+  "fire": {
+	"charmander": {
+	  "primary": "#96191B",
+	  "secondary": "#35261D",
+	  "tertiary": "#F6DFD1",
+	  "unibody": "#F4B186"
+	},
+	"charmeleon": {
+	  "primary": "#BE5B55",
+	  "secondary": "#532924",
+	  "tertiary": "#EAD3D1",
+	  "unibody": "#D3675A"
+	},
+	"charizard": {
+	  "primary": "#CF844B",
+	  "secondary": "#4C1803",
+	  "tertiary": "#DBD8AE",
+	  "unibody": "#DC8E4C"
+	},
+	"vulpix": {
+	  "primary": "#723822",
+	  "secondary": "#421402",
+	  "tertiary": "#f2a485",
+	  "unibody": "#c08672"
+	},
+	"moltres": {
+	  "primary": "#D63427",
+	  "secondary": "#332714",
+	  "tertiary": "#834BAB",
+	  "unibody": "#F8C979"
+	},
+	"ninetales": {
+	  "primary": "#DDCA6B",
+	  "secondary": "#737358",
+	  "tertiary": "#AA7BD9",
+	  "unibody": "#F2F3BA"
+	},
+	"ponyta": {
+	  "primary": "#E86946",
+	  "secondary": "#1F1C15",
+	  "tertiary": "#715DD1",
+	  "unibody": "#EADCB7"
+	},
+	"rapidash": {
+	  "primary": "#DF533C",
+	  "secondary": "#1F1C15",
+	  "tertiary": "#5B4BA8",
+	  "unibody": "#F5EFBF"
+	},
+	"growlithe": {
+	  "primary": "#8B7963",
+	  "secondary": "#4F3215",
+	  "tertiary": "#285DB2",
+	  "unibody": "#DB9651"
+	},
+	"arcanine": {
+	  "primary": "#EA5F24",
+	  "secondary": "#665836",
+	  "tertiary": "#FF9C04",
+	  "unibody": "#FEE3A0"
+	},
+	"magmar": {
+	  "primary": "#F9DC64",
+	  "secondary": "#07050F",
+	  "tertiary": "#003985",
+	  "unibody": "#D84E27"
+	},
+	"flareon": {
+	  "primary": "#060709",
+	  "secondary": "#6E3921",
+	  "tertiary": "#0760A8",
+	  "unibody": "#E8813E"
+	}
+  },
+  "flying": {
+	"charizard": {
+	  "primary": "#CF844B",
+	  "secondary": "#4C1803",
+	  "tertiary": "#DBD8AE",
+	  "unibody": "#DC8E4C"
+	},
+	"butterfree": {
+	  "primary": "#7FBBC5",
+	  "secondary": "#262330",
+	  "tertiary": "#F4D89A",
+	  "unibody": "#978DC1"
+	},
+	"pidgey": {
+	  "primary": "#F3EAB7",
+	  "secondary": "#0A0A08",
+	  "tertiary": "#AC8992",
+	  "unibody": "#9E6B35"
+	},
+	"pidgeotto": {
+	  "primary": "#A3733C",
+	  "secondary": "#C25046",
+	  "tertiary": "#A48554",
+	  "unibody": "#F7F3B0"
+	},
+	"pidgeot": {
+	  "primary": "#A48554",
+	  "secondary": "#C25046",
+	  "tertiary": "#A48554",
+	  "unibody": "#F2EAB7"
+	},
+	"articuno": {
+	  "primary": "#246F96",
+	  "secondary": "#151F29",
+	  "tertiary": "#5F6973",
+	  "unibody": "#73A9DB"
+	},
+	"zapdos": {
+	  "primary": "#A38B47",
+	  "secondary": "#0C0A0A",
+	  "tertiary": "#EDB45D",
+	  "unibody": "#FAD666"
+	},
+	"moltres": {
+	  "primary": "#D63427",
+	  "secondary": "#332714",
+	  "tertiary": "#834BAB",
+	  "unibody": "#F8C979"
+	},
+	"dragonite": {
+	  "primary": "#2DAD9C",
+	  "secondary": "#4C351B",
+	  "tertiary": "#6D42BE",
+	  "unibody": "#F2B36E"
+	},
+	"spearow": {
+	  "primary": "#E07978",
+	  "secondary": "#301515",
+	  "tertiary": "#E5C0C0",
+	  "unibody": "#9C6C55"
+	},
+	"fearow": {
+	  "primary": "#DC6859",
+	  "secondary": "#301515",
+	  "tertiary": "#E5C0C0",
+	  "unibody": "#AD7542"
+	},
+	"zubat": {
+	  "primary": "#874E83",
+	  "secondary": "#F5F56E",
+	  "tertiary": "#5C421B",
+	  "unibody": "#5486A9"
+	},
+	"golbat": {
+	  "primary": "#82487A",
+	  "secondary": "#F5F56E",
+	  "tertiary": "#5C421B",
+	  "unibody": "#306E93"
+	},
+	"aerodactyl": {
+	  "primary": "#8167AE",
+	  "secondary": "#20153B",
+	  "tertiary": "#E9E2FF",
+	  "unibody": "#A5B2DC"
+	},
+	"scyther": {
+	  "primary": "#6A9B40",
+	  "secondary": "#1D300C",
+	  "tertiary": "#4C57B8",
+	  "unibody": "#80C342"
+	},
+	"farfetchd": {
+	  "primary": "#F9B820",
+	  "secondary": "#FFFFF2",
+	  "tertiary": "#0052A6",
+	  "unibody": "#B2927D"
+	},
+	"doduo": {
+	  "primary": "#45464A",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#006AD4",
+	  "unibody": "#CB9573"
+	},
+	"dodrio": {
+	  "primary": "#484647",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#006AD4",
+	  "unibody": "#C99877"
+	},
+	"gyarados": {
+	  "primary": "#2E7090",
+	  "secondary": "#113F58",
+	  "tertiary": "#B2454B",
+	  "unibody": "#307BA5"
+	}
+  },
+  "water": {
+	"squirtle": {
+	  "primary": "#916A5B",
+	  "secondary": "#832900",
+	  "tertiary": "#B4E6EE",
+	  "unibody": "#84C1D4"
+	},
+	"wartortle": {
+	  "primary": "#C8E8F5",
+	  "secondary": "#2D333D",
+	  "tertiary": "#AF8C71",
+	  "unibody": "#A8BDE2"
+	},
+	"blastoise": {
+	  "primary": "#4D5D6C",
+	  "secondary": "#42341C",
+	  "tertiary": "#B7D9FF",
+	  "unibody": "#85ACD7"
+	},
+	"psyduck": {
+	  "primary": "#66431b",
+	  "secondary": "#623108",
+	  "tertiary": "#C16200",
+	  "unibody": "#FFD54B"
+	},
+	"slowpoke": {
+	  "primary": "#C491A2",
+	  "secondary": "#8B5A18",
+	  "tertiary": "#7B2031",
+	  "unibody": "#E5A6B9"
+	},
+	"kabutops": {
+	  "primary": "#92786b",
+	  "secondary": "#291F19",
+	  "tertiary": "#89E3B5",
+	  "unibody": "#B2927D"
+	},
+	"poliwag": {
+	  "primary": "#C8DAE8",
+	  "secondary": "#060329",
+	  "tertiary": "#94C6FF",
+	  "unibody": "#5B89BD"
+	},
+	"poliwhirl": {
+	  "primary": "#E0E4EF",
+	  "secondary": "#060329",
+	  "tertiary": "#94C6FF",
+	  "unibody": "#5C86B8"
+	},
+	"poliwrath": {
+	  "primary": "#E4EDF6",
+	  "secondary": "#060329",
+	  "tertiary": "#94C6FF",
+	  "unibody": "#5B86B9"
+	},
+	"tentacool": {
+	  "primary": "#9B233E",
+	  "secondary": "#102029",
+	  "tertiary": "#991E82",
+	  "unibody": "#6EB5DF"
+	},
+	"tentacruel": {
+	  "primary": "#2997BC",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#CF607C",
+	  "unibody": "#000000"
+	},
+	"slowbro": {
+	  "primary": "#BACBD2",
+	  "secondary": "#8B5A18",
+	  "tertiary": "#7B2031",
+	  "unibody": "#DD9DAE"
+	},
+	"golduck": {
+	  "primary": "#73A4C5",
+	  "secondary": "#243240",
+	  "tertiary": "#A60060",
+	  "unibody": "#7EB1E0"
+	},
+	"seel": {
+	  "primary": "#D4DDEC",
+	  "secondary": "#33373B",
+	  "tertiary": "#FF6482",
+	  "unibody": "#EAEFF3"
+	},
+	"dewgong": {
+	  "primary": "#BFC1D6",
+	  "secondary": "#282B32",
+	  "tertiary": "#FF6482",
+	  "unibody": "#D6DCEA"
+	},
+	"shellder": {
+	  "primary": "#221E1F",
+	  "secondary": "#48416B",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#867DB2"
+	},
+	"cloyster": {
+	  "primary": "#262336",
+	  "secondary": "#48416B",
+	  "tertiary": "#FFFF00",
+	  "unibody": "#837A95"
+	},
+	"goldeen": {
+	  "primary": "#DE6339",
+	  "secondary": "#000000",
+	  "tertiary": "#006FB2",
+	  "unibody": "#F4F1F8"
+	},
+	"seaking": {
+	  "primary": "#0C0608",
+	  "secondary": "#115239",
+	  "tertiary": "#DED100",
+	  "unibody": "#D55F41"
+	},
+	"krabby": {
+	  "primary": "#E78A4F",
+	  "secondary": "#292929",
+	  "tertiary": "#367382",
+	  "unibody": "#F4E5E0"
+	},
+	"kingler": {
+	  "primary": "#D06628",
+	  "secondary": "#306573",
+	  "tertiary": "#43B28F",
+	  "unibody": "#F2E0CA"
+	},
+	"magikarp": {
+	  "primary": "#F8C471",
+	  "secondary": "#632A1E",
+	  "tertiary": "#000000",
+	  "unibody": "#F17960"
+	},
+	"gyarados": {
+	  "primary": "#2E7090",
+	  "secondary": "#113F58",
+	  "tertiary": "#B2454B",
+	  "unibody": "#307BA5"
+	},
+	"horsea": {
+	  "primary": "#65AECF",
+	  "secondary": "#3D616B",
+	  "tertiary": "#D18CA1",
+	  "unibody": "#86D4EB"
+	},
+	"seadra": {
+	  "primary": "#4D809B",
+	  "secondary": "#0E171C",
+	  "tertiary": "#FF8187",
+	  "unibody": "#88C9E9"
+	},
+	"staryu": {
+	  "primary": "#9E7438",
+	  "secondary": "#2B1F0A",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#B1853C"
+	},
+	"starmie": {
+	  "primary": "#8B869A",
+	  "secondary": "#131117",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#A297B7"
+	},
+	"lapras": {
+	  "primary": "#157397",
+	  "secondary": "#00222E",
+	  "tertiary": "#C26837",
+	  "unibody": "#0793C6"
+	},
+	"vaporeon": {
+	  "primary": "#2B536D",
+	  "secondary": "#0A1114",
+	  "tertiary": "#CC7A86",
+	  "unibody": "#7FC2DC"
+	},
+	"omanyte": {
+	  "primary": "#E1DBB7",
+	  "secondary": "#1F434C",
+	  "tertiary": "#BD4738",
+	  "unibody": "#6CBED4"
+	},
+	"omastar": {
+	  "primary": "#E1DDAE",
+	  "secondary": "#F6FCFF",
+	  "tertiary": "#C24939",
+	  "unibody": "#97CCDC"
+	},
+	"kabuto": {
+	  "primary": "#B88B61",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#66226E",
+	  "unibody": "#010101"
+	}
+  },
+  "bug": {
+	"caterpie": {
+	  "primary": "#F47B59",
+	  "secondary": "#63583E",
+	  "tertiary": "#F2DF9C",
+	  "unibody": "#8CC979"
+	},
+	"metapod": {
+	  "primary": "#77A052",
+	  "secondary": "#230729",
+	  "tertiary": "#DDFEAC",
+	  "unibody": "#85B243"
+	},
+	"weedle": {
+	  "primary": "#EDF5EA",
+	  "secondary": "#EDF5EA",
+	  "tertiary": "#A547A5",
+	  "unibody": "#D09D4C"
+	},
+	"kakuna": {
+	  "primary": "#F4E089",
+	  "secondary": "#292722",
+	  "tertiary": "#A547A5",
+	  "unibody": "#D8C173"
+	},
+	"butterfree": {
+	  "primary": "#7FBBC5",
+	  "secondary": "#262330",
+	  "tertiary": "#F4D89A",
+	  "unibody": "#978DC1"
+	},
+	"beedrill": {
+	  "primary": "#656281",
+	  "secondary": "#302910",
+	  "tertiary": "#3680A8",
+	  "unibody": "#EDCE64"
+	},
+	"pinsir": {
+	  "primary": "#6C6260",
+	  "secondary": "#60067D",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#B7A8A5"
+	},
+	"scyther": {
+	  "primary": "#6A9B40",
+	  "secondary": "#1D300C",
+	  "tertiary": "#4C57B8",
+	  "unibody": "#80C342"
+	},
+	"paras": {
+	  "primary": "#C68133",
+	  "secondary": "#000000",
+	  "tertiary": "#5E563E",
+	  "unibody": "#D99238"
+	},
+	"parasect": {
+	  "primary": "#C77936",
+	  "secondary": "#000000",
+	  "tertiary": "#5E563E",
+	  "unibody": "#D88738"
+	},
+	"venonat": {
+	  "primary": "#C5598B",
+	  "secondary": "#1E1B33",
+	  "tertiary": "#51275C",
+	  "unibody": "#615A90"
+	},
+	"venomoth": {
+	  "primary": "#6E6991",
+	  "secondary": "#373737",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#A59CC7"
+	}
+  },
+  "electric": {
+	"pikachu": {
+	  "primary": "#F6BD20",
+	  "secondary": "#4C1803",
+	  "tertiary": "#DE7329",
+	  "unibody": "#F7DE82"
+	},
+	"raichu": {
+	  "primary": "#66431b",
+	  "secondary": "#623108",
+	  "tertiary": "#C16200",
+	  "unibody": "#F2BD4B"
+	},
+	"zapdos": {
+	  "primary": "#A38B47",
+	  "secondary": "#0C0A0A",
+	  "tertiary": "#EDB45D",
+	  "unibody": "#FAD666"
+	},
+	"magnemite": {
+	  "primary": "#93928E",
+	  "secondary": "#1A2342",
+	  "tertiary": "#7E6A85",
+	  "unibody": "#9DBBC5"
+	},
+	"magneton": {
+	  "primary": "#91918F",
+	  "secondary": "#1A2342",
+	  "tertiary": "#6A155A",
+	  "unibody": "#A3BEC7"
+	},
+	"electabuzz": {
+	  "primary": "#0A162C",
+	  "secondary": "#377B9C",
+	  "tertiary": "#FCFBD8",
+	  "unibody": "#F8D871"
+	},
+	"voltorb": {
+	  "primary": "#000000",
+	  "secondary": "#000000",
+	  "tertiary": "#BAB608",
+	  "unibody": "#ED2225"
+	},
+	"electrode": {
+	  "primary": "#EC1D23",
+	  "secondary": "#000000",
+	  "tertiary": "#009BFF",
+	  "unibody": "#FFFFFF"
+	},
+	"jolteon": {
+	  "primary": "#080607",
+	  "secondary": "#3189C0",
+	  "tertiary": "#720073",
+	  "unibody": "#F3D156"
+	}
+  },
+  "ground": {
+	"sandshrew": {
+	  "primary": "#B9A06A",
+	  "secondary": "#302E28",
+	  "tertiary": "#987F42",
+	  "unibody": "#E5C57A"
+	},
+	"sandslash": {
+	  "primary": "#AD8432",
+	  "secondary": "#302E28",
+	  "tertiary": "#987F42",
+	  "unibody": "#E4C674"
+	},
+	"nidoqueen": {
+	  "primary": "#597E98",
+	  "secondary": "#111742",
+	  "tertiary": "#AD7561",
+	  "unibody": "#81ABC3"
+	},
+	"nidoking": {
+	  "primary": "#518286",
+	  "secondary": "#3A243E",
+	  "tertiary": "#89D7BF",
+	  "unibody": "#A86EA1"
+	},
+	"geodude": {
+	  "primary": "#505833",
+	  "secondary": "#382C00",
+	  "tertiary": "#A6552D",
+	  "unibody": "#B5A66D"
+	},
+	"graveler": {
+	  "primary": "#84847A",
+	  "secondary": "#3A3B30",
+	  "tertiary": "#8DFFFF",
+	  "unibody": "#B4B5A5"
+	},
+	"golem": {
+	  "primary": "#494441",
+	  "secondary": "#B74345",
+	  "tertiary": "#FFBCD3",
+	  "unibody": "#898E88"
+	},
+	"onix": {
+	  "primary": "#4B494E",
+	  "secondary": "#E8E8D6",
+	  "tertiary": "#4E7378",
+	  "unibody": "#9B9AA2"
+	},
+	"diglett": {
+	  "primary": "#E6B5D3",
+	  "secondary": "#634B3B",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#A88975"
+	},
+	"dugtrio": {
+	  "primary": "#E1AECD",
+	  "secondary": "#38291E",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#92745C"
+	},
+	"cubone": {
+	  "primary": "#000000",
+	  "secondary": "#000000",
+	  "tertiary": "#084CBD",
+	  "unibody": "#E0AA3D"
+	},
+	"marowak": {
+	  "primary": "#000000",
+	  "secondary": "#000000",
+	  "tertiary": "#084CBD",
+	  "unibody": "#D1A341"
+	},
+	"rhyhorn": {
+	  "primary": "#958F99",
+	  "secondary": "#3C393E",
+	  "tertiary": "#FF7700",
+	  "unibody": "#B6ADBE"
+	},
+	"rhydon": {
+	  "primary": "#E7CEB8",
+	  "secondary": "#434957",
+	  "tertiary": "#00FAE9",
+	  "unibody": "#99A0B0"
+	}
+  },
+  "fairy": {
+	"clefable": {
+	  "primary": "#C694A0",
+	  "secondary": "#A41020",
+	  "tertiary": "#104A8B",
+	  "unibody": "#F6D9D1"
+	},
+	"jigglypuff": {
+	  "primary": "#279C9A",
+	  "secondary": "#1873C5",
+	  "tertiary": "#279C94",
+	  "unibody": "#FAC7D6"
+	},
+	"clefairy": {
+	  "primary": "#D9AFBD",
+	  "secondary": "#4F3A3E",
+	  "tertiary": "#FF58FF",
+	  "unibody": "#F6CED6"
+	},
+	"wigglytuff": {
+	  "primary": "#226689",
+	  "secondary": "#3B262A",
+	  "tertiary": "#CC5B6F",
+	  "unibody": "#F8B9C4"
+	},
+	"mr.mime": {
+	  "primary": "#183F5E",
+	  "secondary": "#C4798B",
+	  "tertiary": "#73696B",
+	  "unibody": "#F9E4E9"
+	}
+  },
+  "normal": {
+	"pidgey": {
+	  "primary": "#F3EAB7",
+	  "secondary": "#0A0A08",
+	  "tertiary": "#AC8992",
+	  "unibody": "#9E6B35"
+	},
+	"pidgeotto": {
+	  "primary": "#A3733C",
+	  "secondary": "#C25046",
+	  "tertiary": "#A48554",
+	  "unibody": "#F7F3B0"
+	},
+	"pidgeot": {
+	  "primary": "#A48554",
+	  "secondary": "#C25046",
+	  "tertiary": "#A48554",
+	  "unibody": "#F2EAB7"
+	},
+	"rattata": {
+	  "primary": "#453444",
+	  "secondary": "#F6F0F6",
+	  "tertiary": "#050405",
+	  "unibody": "#A662A4"
+	},
+	"jigglypuff": {
+	  "primary": "#279C9A",
+	  "secondary": "#1873C5",
+	  "tertiary": "#279C94",
+	  "unibody": "#FAC7D6"
+	},
+	"ditto": {
+	  "primary": "#040607",
+	  "secondary": "#4B1F44",
+	  "tertiary": "#FFD0F7",
+	  "unibody": "#CB91C1"
+	},
+	"missingno": {
+	  "primary": "#6E6E6E",
+	  "secondary": "#43B28F",
+	  "tertiary": "#BB4477",
+	  "unibody": "#000000"
+	},
+	"raticate": {
+	  "primary": "#A28091",
+	  "secondary": "#2E2300",
+	  "tertiary": "#21C8D8",
+	  "unibody": "#CB9652"
+	},
+	"spearow": {
+	  "primary": "#E07978",
+	  "secondary": "#301515",
+	  "tertiary": "#E5C0C0",
+	  "unibody": "#9C6C55"
+	},
+	"fearow": {
+	  "primary": "#DC6859",
+	  "secondary": "#301515",
+	  "tertiary": "#E5C0C0",
+	  "unibody": "#AD7542"
+	},
+	"wigglytuff": {
+	  "primary": "#226689",
+	  "secondary": "#3B262A",
+	  "tertiary": "#CC5B6F",
+	  "unibody": "#F8B9C4"
+	},
+	"snorlax": {
+	  "primary": "#F5EF7C",
+	  "secondary": "#1A2927",
+	  "tertiary": "#40C9B2",
+	  "unibody": "#4A736B"
+	},
+	"tauros": {
+	  "primary": "#6E6852",
+	  "secondary": "#3D2914",
+	  "tertiary": "#23809D",
+	  "unibody": "#EAA763"
+	},
+	"meowth": {
+	  "primary": "#434343",
+	  "secondary": "#0048C4",
+	  "tertiary": "#000000",
+	  "unibody": "#F4EDD1"
+	},
+	"persian": {
+	  "primary": "#514A40",
+	  "secondary": "#0048C4",
+	  "tertiary": "#000000",
+	  "unibody": "#F4E2B2"
+	},
+	"farfetchd": {
+	  "primary": "#F9B820",
+	  "secondary": "#FFFFF2",
+	  "tertiary": "#0052A6",
+	  "unibody": "#B2927D"
+	},
+	"doduo": {
+	  "primary": "#45464A",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#006AD4",
+	  "unibody": "#CB9573"
+	},
+	"dodrio": {
+	  "primary": "#484647",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#006AD4",
+	  "unibody": "#C99877"
+	},
+	"chansey": {
+	  "primary": "#E99DA9",
+	  "secondary": "#733E49",
+	  "tertiary": "#459C64",
+	  "unibody": "#FBD3DC"
+	},
+	"porygon": {
+	  "primary": "#4A9CA7",
+	  "secondary": "#1C070A",
+	  "tertiary": "#FFCF00",
+	  "unibody": "#D14353"
+	},
+	"lickitung": {
+	  "primary": "#E4B9CA",
+	  "secondary": "#693F45",
+	  "tertiary": "#589196",
+	  "unibody": "#EBA5B0"
+	},
+	"kangaskhan": {
+	  "primary": "#EFE9AB",
+	  "secondary": "#000000",
+	  "tertiary": "#D98067",
+	  "unibody": "#8D746D"
+	},
+	"eevee": {
+	  "primary": "#603E18",
+	  "secondary": "#000000",
+	  "tertiary": "#4D3C9E",
+	  "unibody": "#C08C5C"
+	}
+  },
+  "psychic": {
+	"alakazam": {
+	  "primary": "#D8BF58",
+	  "secondary": "#4F4A34",
+	  "tertiary": "#A5978B",
+	  "unibody": "#EAD055"
+	},
+	"slowpoke": {
+	  "primary": "#C491A2",
+	  "secondary": "#8B5A18",
+	  "tertiary": "#7B2031",
+	  "unibody": "#E5A6B9"
+	},
+	"mew": {
+	  "primary": "#D1ABB8",
+	  "secondary": "#4C363D",
+	  "tertiary": "#BA5F79",
+	  "unibody": "#F4C6D3"
+	},
+	"mewtwo": {
+	  "primary": "#9B7D97",
+	  "secondary": "#4D4652",
+	  "tertiary": "#8F6DA6",
+	  "unibody": "#DFD9E3"
+	},
+	"abra": {
+	  "primary": "#DAC25E",
+	  "secondary": "#4F4A34",
+	  "tertiary": "#A5978B",
+	  "unibody": "#F1D95F"
+	},
+	"kadabra": {
+	  "primary": "#CAB43A",
+	  "secondary": "#4F4A34",
+	  "tertiary": "#A5978B",
+	  "unibody": "#F4E154"
+	},
+	"slowbro": {
+	  "primary": "#BACBD2",
+	  "secondary": "#8B5A18",
+	  "tertiary": "#7B2031",
+	  "unibody": "#DD9DAE"
+	},
+	"mr.mime": {
+	  "primary": "#183F5E",
+	  "secondary": "#C4798B",
+	  "tertiary": "#73696B",
+	  "unibody": "#F9E4E9"
+	},
+	"jynx": {
+	  "primary": "#CB313B",
+	  "secondary": "#110919",
+	  "tertiary": "#28A651",
+	  "unibody": "#552B7F"
+	},
+	"exeggcute": {
+	  "primary": "#D0B5BB",
+	  "secondary": "#4F6666",
+	  "tertiary": "#0CA8A8",
+	  "unibody": "#F6D6D9"
+	},
+	"exeggutor": {
+	  "primary": "#56A160",
+	  "secondary": "#403B33",
+	  "tertiary": "#5BCCA3",
+	  "unibody": "#9D927E"
+	},
+	"drowzee": {
+	  "primary": "#595450",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#CB4D4D",
+	  "unibody": "#ECC44A"
+	},
+	"hypno": {
+	  "primary": "#979B9A",
+	  "secondary": "#292929",
+	  "tertiary": "#CB4D4D",
+	  "unibody": "#F9D855"
+	},
+	"starmie": {
+	  "primary": "#8B869A",
+	  "secondary": "#131117",
+	  "tertiary": "#FFFFFF",
+	  "unibody": "#A297B7"
+	}
+  },
+  "ghost": {
+	"gengar": {
+	  "primary": "#EF735B",
+	  "secondary": "#43B28F",
+	  "tertiary": "#BB4477",
+	  "unibody": "#4B294A"
+	},
+	"gastly": {
+	  "primary": "#0C0D22",
+	  "secondary": "#7A0046",
+	  "tertiary": "#FFBC00",
+	  "unibody": "#7D6EB3"
+	},
+	"haunter": {
+	  "primary": "#ED779A",
+	  "secondary": "#242033",
+	  "tertiary": "#FFBC00",
+	  "unibody": "#7D6EB3"
+	}
+  },
+  "rock": {
+	"kabutops": {
+	  "primary": "#92786b",
+	  "secondary": "#291F19",
+	  "tertiary": "#89E3B5",
+	  "unibody": "#B2927D"
+	},
+	"aerodactyl": {
+	  "primary": "#8167AE",
+	  "secondary": "#20153B",
+	  "tertiary": "#E9E2FF",
+	  "unibody": "#A5B2DC"
+	},
+	"geodude": {
+	  "primary": "#505833",
+	  "secondary": "#382C00",
+	  "tertiary": "#A6552D",
+	  "unibody": "#B5A66D"
+	},
+	"graveler": {
+	  "primary": "#84847A",
+	  "secondary": "#3A3B30",
+	  "tertiary": "#8DFFFF",
+	  "unibody": "#B4B5A5"
+	},
+	"golem": {
+	  "primary": "#494441",
+	  "secondary": "#B74345",
+	  "tertiary": "#FFBCD3",
+	  "unibody": "#898E88"
+	},
+	"onix": {
+	  "primary": "#4B494E",
+	  "secondary": "#E8E8D6",
+	  "tertiary": "#4E7378",
+	  "unibody": "#9B9AA2"
+	},
+	"rhyhorn": {
+	  "primary": "#958F99",
+	  "secondary": "#3C393E",
+	  "tertiary": "#FF7700",
+	  "unibody": "#B6ADBE"
+	},
+	"rhydon": {
+	  "primary": "#E7CEB8",
+	  "secondary": "#434957",
+	  "tertiary": "#00FAE9",
+	  "unibody": "#99A0B0"
+	},
+	"omanyte": {
+	  "primary": "#E1DBB7",
+	  "secondary": "#1F434C",
+	  "tertiary": "#BD4738",
+	  "unibody": "#6CBED4"
+	},
+	"omastar": {
+	  "primary": "#E1DDAE",
+	  "secondary": "#F6FCFF",
+	  "tertiary": "#C24939",
+	  "unibody": "#97CCDC"
+	},
+	"kabuto": {
+	  "primary": "#B88B61",
+	  "secondary": "#FFFFFF",
+	  "tertiary": "#66226E",
+	  "unibody": "#010101"
+	}
+  },
+  "ice": {
+	"articuno": {
+	  "primary": "#246F96",
+	  "secondary": "#151F29",
+	  "tertiary": "#5F6973",
+	  "unibody": "#73A9DB"
+	},
+	"dewgong": {
+	  "primary": "#BFC1D6",
+	  "secondary": "#282B32",
+	  "tertiary": "#FF6482",
+	  "unibody": "#D6DCEA"
+	},
+	"cloyster": {
+	  "primary": "#262336",
+	  "secondary": "#48416B",
+	  "tertiary": "#FFFF00",
+	  "unibody": "#837A95"
+	},
+	"jynx": {
+	  "primary": "#CB313B",
+	  "secondary": "#110919",
+	  "tertiary": "#28A651",
+	  "unibody": "#552B7F"
+	},
+	"lapras": {
+	  "primary": "#157397",
+	  "secondary": "#00222E",
+	  "tertiary": "#C26837",
+	  "unibody": "#0793C6"
+	}
+  },
+  "dragon": {
+	"dratini": {
+	  "primary": "#5577BB",
+	  "secondary": "#F4FBFF",
+	  "tertiary": "#D9D9D9",
+	  "unibody": "#97BDE4"
+	},
+	"dragonair": {
+	  "primary": "#5577BB",
+	  "secondary": "#E8F0F4",
+	  "tertiary": "#D9D9D9",
+	  "unibody": "#77A2D5"
+	},
+	"dragonite": {
+	  "primary": "#2DAD9C",
+	  "secondary": "#4C351B",
+	  "tertiary": "#6D42BE",
+	  "unibody": "#F2B36E"
+	}
+  },
+  "fighting": {
+	"poliwrath": {
+	  "primary": "#E4EDF6",
+	  "secondary": "#060329",
+	  "tertiary": "#94C6FF",
+	  "unibody": "#5B86B9"
+	},
+	"machop": {
+	  "primary": "#94ADB2",
+	  "secondary": "#202C2E",
+	  "tertiary": "#C22C2E",
+	  "unibody": "#A6C7CE"
+	},
+	"machoke": {
+	  "primary": "#818493",
+	  "secondary": "#202C2E",
+	  "tertiary": "#C22C2E",
+	  "unibody": "#9C9EB5"
+	},
+	"machamp": {
+	  "primary": "#8A9AA9",
+	  "secondary": "#202C2E",
+	  "tertiary": "#C22C2E",
+	  "unibody": "#9DAEC0"
+	},
+	"hitmonlee": {
+	  "primary": "#302C2B",
+	  "secondary": "#171210",
+	  "tertiary": "#43D2B4",
+	  "unibody": "#9F8880"
+	},
+	"hitmonchan": {
+	  "primary": "#C66961",
+	  "secondary": "#1F1B17",
+	  "tertiary": "#FFF9F2",
+	  "unibody": "#C2B5A5"
+	},
+	"mankey": {
+	  "primary": "#C8B7A5",
+	  "secondary": "#3B2A29",
+	  "tertiary": "#3B6D8F",
+	  "unibody": "#F6E5D5"
+	},
+	"primeape": {
+	  "primary": "#F38C8D",
+	  "secondary": "#4A71B5",
+	  "tertiary": "#3B2F42",
+	  "unibody": "#F6E5C7"
+	}
+  },
+  "steel": {
+	"magnemite": {
+	  "primary": "#93928E",
+	  "secondary": "#1A2342",
+	  "tertiary": "#7E6A85",
+	  "unibody": "#9DBBC5"
+	},
+	"magneton": {
+	  "primary": "#91918F",
+	  "secondary": "#1A2342",
+	  "tertiary": "#6A155A",
+	  "unibody": "#A3BEC7"
+	}
+  },
+  "legendary": {
+	"articuno": {
+	  "primary": "#246F96",
+	  "secondary": "#151F29",
+	  "tertiary": "#5F6973",
+	  "unibody": "#73A9DB"
+	},
+	"zapdos": {
+	  "primary": "#A38B47",
+	  "secondary": "#0C0A0A",
+	  "tertiary": "#EDB45D",
+	  "unibody": "#FAD666"
+	},
+	"moltres": {
+	  "primary": "#D63427",
+	  "secondary": "#332714",
+	  "tertiary": "#834BAB",
+	  "unibody": "#F8C979"
+	},
+	"mew": {
+	  "primary": "#D1ABB8",
+	  "secondary": "#4C363D",
+	  "tertiary": "#BA5F79",
+	  "unibody": "#F4C6D3"
+	},
+	"mewtwo": {
+	  "primary": "#9B7D97",
+	  "secondary": "#4D4652",
+	  "tertiary": "#8F6DA6",
+	  "unibody": "#DFD9E3"
+	}
+  },
+  "starter": {
+	"bulbasaur": {
+	  "primary": "#5B9C71",
+	  "secondary": "#0F2C33",
+	  "tertiary": "#F8DEA0",
+	  "unibody": "#77AC98"
+	},
+	"charmander": {
+	  "primary": "#96191B",
+	  "secondary": "#35261D",
+	  "tertiary": "#F6DFD1",
+	  "unibody": "#F4B186"
+	},
+	"squirtle": {
+	  "primary": "#916A5B",
+	  "secondary": "#832900",
+	  "tertiary": "#B4E6EE",
+	  "unibody": "#84C1D4"
+	},
+	"pikachu": {
+	  "primary": "#F6BD20",
+	  "secondary": "#4C1803",
+	  "tertiary": "#DE7329",
+	  "unibody": "#F7DE82"
+	}
+  },
+  "default": {
+	"light": {
+	  "primary": "#383A42",
+	  "secondary": "#383A42",
+	  "tertiary": "#383A42",
+	  "unibody": "#383A42"
+	},
+	"dark": {
+	  "primary": "#FAFAFA",
+	  "secondary": "#FAFAFA",
+	  "tertiary": "#FAFAFA",
+	  "unibody": "#FAFAFA"
+	}
+  }
+}
